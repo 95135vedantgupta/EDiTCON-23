@@ -1,0 +1,53 @@
+.body_class{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.colored-section{
+  height: 20em;
+}
+.centered {
+  /* position: relative; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered_img{
+  height: 27em;
+}
+.centered_logo_text{
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+  font-family: 'Bebas Neue', cursive;
+  color: #fff;
+}
+.centered_logo_text2{
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-family: 'Bebas Neue', cursive;
+  color: #fff;
+}
+.navbar-nav{
+  font-family: 'Bebas Neue', cursive;
+}
+.navbar-brand{
+  font-family: 'Bebas Neue', cursive;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
